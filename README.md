@@ -2,7 +2,7 @@
 
 # 🖥️ Sanjana's Desktop
 
-### A macOS-inspired interactive portfolio built with React.
+### A macOS-inspired interactive portfolio.
 
 Experience my portfolio like you're exploring a desktop—open folders, browse projects, and interact with a familiar macOS-inspired interface.
 
